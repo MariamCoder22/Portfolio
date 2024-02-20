@@ -21,22 +21,22 @@ Smooth Transitions: Experience seamless transitions between different sections o
 Responsive Design: The portfolio is designed to be responsive, ensuring a consistent and optimal experience across various devices.
 
 Getting Started
+
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/3d-portfolio.git
+```git clone https://github.com/your-username/3d-portfolio.git```
+
 Install Dependencies:
 
-bash
-Copy code
-cd 3d-portfolio
-npm install
+```cd 3d-portfolio```
+
+```npm install```
+
 Run the Development Server:
 
-bash
-Copy code
-npm run dev
+```npm run dev```
+
+
 Open in Browser:
 
 Visit http://localhost:3000 to view your 3D.js portfolio website.
